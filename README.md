@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CykaBruh
 - 👀 I’m interested in video game development and general programming shenanigans
 - 🌱 I’m currently learning C and C++
-- 😄 Pronouns: She/Her + They/Them
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am the 6502 in your machine
 
 <!---
